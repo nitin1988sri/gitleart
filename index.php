@@ -8,4 +8,5 @@ function sum($a,$b){
     return $a+$b;
 }
 
+echo "git is ultimate";
 ?>
